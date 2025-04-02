@@ -1,5 +1,5 @@
 
-# 🧬 Classification d’Images de Cancer de la Peau (Bénin vs Malin)
+# 🧬 Classification d’Images de Cancer de la Peau (Bénin vs Malin) 
 
 ## 📝 Description du Projet
 
