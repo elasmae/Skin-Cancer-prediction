@@ -15,4 +15,8 @@ Ce projet a pour objectif de classifier des images de la peau en identifiant si 
 
    L'évaluation permettra de sélectionner le modèle offrant les meilleures performances pour la prédiction.
 
-4. **la prédiction**: Prédire les images dans *Predict* et enregistrer les prévisions dans *Prediction.csv*.
+4. **la prédiction**: Prédire les images dans *Predict_test*, les resultats sont enregistrés  dans *Prediction_Results*.
+
+Auteur : Asmae EL MAHJOUBI
+Date : 2020
+Master Statistiques et Sciences des données
