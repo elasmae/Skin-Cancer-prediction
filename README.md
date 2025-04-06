@@ -1,13 +1,13 @@
 
-# 🧬 Classification d’Images de Cancer de la Peau (Bénin vs Malin) 
+#  Classification d’Images de Cancer de la Peau (Bénin vs Malin) 
 
-## 📝 Description du Projet
+##  Description 
 
 Ce projet vise à développer un système de classification d’images dermatologiques afin de déterminer si une lésion cutanée est **bénigne** ou **maligne**. Il s’inscrit dans une démarche de soutien au diagnostic médical à l’aide de méthodes d’apprentissage automatique et de traitement d’image.
 
 ---
 
-## 🔍 Étapes du Projet
+##  Étapes 
 
 ### 1. **Segmentation des images**
 Les images brutes sont d’abord segmentées afin d’isoler la zone d’intérêt (la lésion) pour un traitement plus ciblé.
@@ -31,8 +31,8 @@ Le modèle retenu est utilisé pour prédire les classes des images contenues da
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 **Asmae EL MAHJOUBI**  
 Master Statistiques et Sciences des Données  
-📅 2020
+2020
